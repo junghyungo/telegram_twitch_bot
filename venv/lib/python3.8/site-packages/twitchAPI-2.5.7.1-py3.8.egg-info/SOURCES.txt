@@ -1,0 +1,17 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+twitchAPI/__init__.py
+twitchAPI/eventsub.py
+twitchAPI/helper.py
+twitchAPI/oauth.py
+twitchAPI/pubsub.py
+twitchAPI/twitch.py
+twitchAPI/types.py
+twitchAPI.egg-info/PKG-INFO
+twitchAPI.egg-info/SOURCES.txt
+twitchAPI.egg-info/dependency_links.txt
+twitchAPI.egg-info/requires.txt
+twitchAPI.egg-info/top_level.txt
+twitchAPI.egg-info/zip-safe
